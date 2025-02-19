@@ -1,9 +1,9 @@
 ## Olá, Eu sou a Greice! Seja bem Vindo!
 
 🖥️ Técnica em informática<br/>
-🖥️Técnologo em Ciência de Dados e Analise de Comportamento<br/>
+🖥️ Técnologo em Ciência de Dados e Analise de Comportamento<br/>
 🖥️ Bacharel em Engenharia  da Computação<br/>
-🖥️Pós graduada em cloud computing<br/>
+🖥️ Pós graduada em cloud computing<br/>
 🤓 pesquisadora
 
 [![Linekdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greice-welter-9633bbb9/)
